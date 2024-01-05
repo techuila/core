@@ -1,7 +1,8 @@
 repo_name: techuila/core
 report_id: 19c36572f8898a1a3df09f1be81ca179
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T06:28:29+00:00'
+timestamp: '2024-01-05T08:41:26+00:00'
 requested_by: vtuanjs
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/techuila/core/blob/main/package.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 18:19:49.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/techuila/core
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -40,7 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 18:22:02.000000000 Z
@@ -53,6 +56,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/techuila/core/blob/main/package.json
   detection_source: package.json
   last_updated_by: tuan-nguyen-egany
   last_updated_on: 2021-05-12 16:02:11.000000000 Z
@@ -66,7 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: tuan-nguyen-egany
   last_updated_on: 2021-05-12 16:02:11.000000000 Z
@@ -79,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/techuila/core/blob/main/package.json
   detection_source: package.json
   last_updated_by: tuan-nguyen-egany
   last_updated_on: 2021-05-12 16:02:11.000000000 Z
@@ -90,6 +95,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/techuila/core
   detection_source: Repo Metadata
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
@@ -102,7 +108,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -116,7 +122,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -130,7 +136,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -142,6 +148,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/techuila/core/blob/main/package.json
   detection_source: package.json
   last_updated_by: tuan-nguyen-egany
   last_updated_on: 2021-05-12 16:02:11.000000000 Z
@@ -155,7 +162,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -169,7 +176,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18206/default_dfaa3c3f19039c5391ee1a13529324eaa2685e7f.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-15 19:07:51.000000000 Z
@@ -183,7 +190,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17290/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -197,7 +204,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 18:22:02.000000000 Z
@@ -211,7 +218,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -225,7 +232,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -239,7 +246,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16805/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-15 17:34:02.000000000 Z
@@ -253,7 +260,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 18:19:49.000000000 Z
@@ -267,7 +274,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 18:19:49.000000000 Z
@@ -281,7 +288,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-15 19:07:51.000000000 Z
@@ -295,7 +302,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: tuan-nguyen-egany
   last_updated_on: 2021-05-12 16:02:11.000000000 Z
@@ -309,7 +316,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -323,7 +330,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
@@ -337,7 +344,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 18:22:02.000000000 Z
@@ -358,7 +365,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/techuila/core/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Nguyễn Văn Tuấn
   last_updated_on: 2021-05-14 17:47:39.000000000 Z
